@@ -1,3 +1,7 @@
 Alors....
 Comment tu vas ?
+<<<<<<< HEAD
 Je m'appelle ismael
+=======
+Bien et toi
+>>>>>>> refs/remotes/origin/main
